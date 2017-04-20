@@ -1,14 +1,21 @@
 
-**Description:**
-Here is a short description of the bug or feedback
+###### Problem: 
+Describe the issue, what happens? What should happend.
+Doesnt have to be a bug, could be general feedback.
 
-**Setup:**
+###### Expected Result: 
+Describe what should actually happen.
+
+###### Recreate: 
+Describe how  the issue can be recreated (If relevant/known)
+
+###### Setup:
 Intel pentium F1337
 32GB RAM
 Geeforce 12 Z
 256kb/s internet connection
 
-**Output log:**
+###### Output log:
 You can include a output log by drag and dropping it here.
 Output logs can by following these instructions:
 1. Right-click the game in steam, click properties.
@@ -18,6 +25,6 @@ Output logs can by following these instructions:
 5. Send us the output_log.txt file with your bug report.
 6. The output_log file is reset everytime you restart the game, so dont restart the game until you have sent us the file.
 
-**Screenshot:**
+###### Screenshot:
 Can be included by drag and dropping it here. 
 Screenshot is not allways needed but is much appreciated.
